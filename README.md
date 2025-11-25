@@ -6,9 +6,9 @@ I contributed to this project as a core developer, focusing on backend integrati
 * **Maps Service:** Implemented **Google Maps API** to visualize routes and danger zones.
 * **UI/UX:** Developed interactive frontend modules using **TypeScript** and **Shadcn UI**.
   
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app) 
 
 ## Getting Started
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app) 
 
 First, run the development server:
 
