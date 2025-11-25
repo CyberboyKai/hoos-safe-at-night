@@ -1,11 +1,11 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app) 
 
-## My Contributions
+##👨‍💻 My Contributions
 I contributed to this project as a core developer, focusing on backend integration and map services:
 
-**Backend:** Managed **Supabase** integration for real-time data handling (Users/Groups)[cite: 21, 24].
-**Maps Service:** Implemented **Google Maps API** to visualize routes and danger zones[cite: 23].
-**UI/UX:** Developed interactive frontend modules using **TypeScript** and **Shadcn UI**[cite: 21].
+* **Backend:** Managed **Supabase** integration for real-time data handling (Users/Groups)[cite: 21, 24].
+* **Maps Service:** Implemented **Google Maps API** to visualize routes and danger zones[cite: 23].
+* **UI/UX:** Developed interactive frontend modules using **TypeScript** and **Shadcn UI**[cite: 21].
 * 
 ## Getting Started
 
